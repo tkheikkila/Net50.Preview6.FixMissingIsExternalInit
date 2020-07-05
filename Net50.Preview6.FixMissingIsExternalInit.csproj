@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageLicenseExpression>Apache2.0</PackageLicenseExpression>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <Authors>Toni Heikkilä</Authors>
     <RepositoryUrl>https://github.com/tkheikkila/Net50.Preview6.FixMissingIsExternalInit</RepositoryUrl>
     <PackageReleaseNotes></PackageReleaseNotes>
