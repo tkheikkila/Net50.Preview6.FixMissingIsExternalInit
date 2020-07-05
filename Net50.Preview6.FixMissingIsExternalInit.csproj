@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>Apache2.0</PackageLicenseExpression>
+    <Authors>Toni Heikkilä</Authors>
+    <RepositoryUrl>https://github.com/tkheikkila/Net50.Preview6.FixMissingIsExternalInit</RepositoryUrl>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <PackageTags>isexternalinit;polyfill;net50;preview6</PackageTags>
+    <Description>A workaround for missing System.Runtime.CompilerServices.IsExternalInit for .NET 5.0 Preview 6</Description>
   </PropertyGroup>
 
 </Project>
